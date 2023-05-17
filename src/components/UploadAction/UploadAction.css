@@ -1,0 +1,37 @@
+.upload-action__wrapper {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.upload-action__input + .upload-action__label {
+  background: linear-gradient(180deg,rgba(60,8,126,1) 0%,rgba(60,8,126,1) 100%), rgb(113, 47, 255);
+  box-shadow: inset 0 0 12px #bf97ff70;
+  color: var(--accent-light);
+  width: 150px;
+  height: 150px;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  transform: scale(1);
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+  user-select: none;
+}
+
+.upload-action__label:hover {
+  transform: scale(1.1);
+  transition: all 0.4s ease-in-out;
+}
+
+.upload-action__input:focus + .upload-action__label {
+  background: linear-gradient(180deg,rgba(60,8,126,1) 0%,rgba(60,8,126,1) 100%),rgba(113,47,255,1);
+  box-shadow: inset 0 0 12px #bf97ff3d;
+}
+
+.upload-action__input:active + .upload-action__label {
+  transition: 0s ease-in-out;
+}
