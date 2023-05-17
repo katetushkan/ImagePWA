@@ -22,3 +22,9 @@ Client PWA displays predictions under the **_Power_** button.
 
 
 ### Results
+
+![IMG_3293](https://github.com/katetushkan/ImagePWA/assets/43992068/164f4bd7-95db-427c-a3d2-7b06a9b96bf6)
+![IMG_3294](https://github.com/katetushkan/ImagePWA/assets/43992068/094e9dec-0f8c-43ca-90d4-7de2efa18f71)
+![IMG_3295](https://github.com/katetushkan/ImagePWA/assets/43992068/e6896ad9-7f1e-4cb2-8102-a81d561f84c8)
+![IMG_3291](https://github.com/katetushkan/ImagePWA/assets/43992068/c37c9fbb-b660-4522-88e0-e23e18c225ab)
+
