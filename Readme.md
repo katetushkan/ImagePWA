@@ -5,6 +5,8 @@ Katsiaryna Tushynskaya, 256241
 In this repository you can find a Progression Web Application which can be installed on ur Android or IOS device and helps you classify digits via uploading an image.
 
 ## Architecture
+The model was pretrained with two iterations of data, the first one included images with a higher data quality, the overall validation score got lower after the 2nd set of data with uncentered, buzzy images and was around `~88%`.
+
 It was considered to use cloud functions to extract massive counting and create a lightweight App.
 
 I chose a Firebase Storage to store pretrained model, and load it to the `/recognize` Google Cloud Function which is stored in `recognise.ts` file.
