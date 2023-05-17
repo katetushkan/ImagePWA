@@ -17,13 +17,17 @@ Client PWA displays predictions under the **_Power_** button.
 
 ### User-workflow:
 1. Open https://images-6e368.web.app (install if preferable)
+
 2. Press the **_Power_** button.
 3. Wait for a img to be process (see the Loader)
 4. Get prediction results underneath the **_Power_** button.
 5. Repeat steps 2-4 if needed.
 
+### Model's Training Results
+<img width="1280" alt="Screenshot 2023-05-10 at 17 27 31" src="https://github.com/katetushkan/ImagePWA/assets/43992068/63a59a3f-8ba5-4bbf-bade-8f931cbc6215">
 
-### Results
+
+### PWA Results
 
 ![IMG_3293](https://github.com/katetushkan/ImagePWA/assets/43992068/164f4bd7-95db-427c-a3d2-7b06a9b96bf6)
 ![IMG_3294](https://github.com/katetushkan/ImagePWA/assets/43992068/094e9dec-0f8c-43ca-90d4-7de2efa18f71)
